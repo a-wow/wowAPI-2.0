@@ -1,6 +1,6 @@
 # _wowAPI-2.0_
 ## Custom API for private world of warcraft servers
-<img src="https://postimg.cc/bGVNzqkh" height="50px">
+<img src="https://i.postimg.cc/ZR49xRqC/1.png" height="50px">
 
 ## Information
 
