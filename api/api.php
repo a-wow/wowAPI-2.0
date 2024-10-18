@@ -56,10 +56,10 @@ function searchCharacter($mysqli) {
 
     $class_names = [
         1 => 'Warrior',
-        2 => 'Priest',
+        2 => 'Paladin',
         3 => 'Hunter',
         4 => 'Rogue',
-        5 => 'Prist',
+        5 => 'Priest',
         6 => 'Death Knight',
         7 => 'Shaman',
         8 => 'Mage',
